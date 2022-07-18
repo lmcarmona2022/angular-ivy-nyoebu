@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
   tituloHeader = 'Hola Mundo Header';
+  /* aca va toda la lógica de negocio*/
 }
