@@ -7,9 +7,9 @@
   right: 0;
   height: 10rem;
   display: flex;
-  align-items: center;
-  background-color:  #eee2d6;
-  color: rgb(202, 67, 67);
+  align-items: flex-start;
+  background-color:  white;
+  Color: rgb(94, 81, 210);
   font-weight: 700;
 
 }
@@ -23,7 +23,7 @@
   display: flex;
   padding: 50px 50px ;
   align-items: flex-start;
-  background-color:  #afa69e;
+  background-color: rgb(220, 232, 233);
   color: rgb(202, 67, 67);
   font-weight: 700;
 }
