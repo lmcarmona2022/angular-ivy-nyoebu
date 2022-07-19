@@ -1,26 +1,40 @@
 
 
-.header , .main{
+.header{
   position: relative;
   top: 0;
   left: 0;
   right: 0;
   height: 10rem;
-  display: flex;
+  display: block ;
   align-items: flex-start;
-  background-color:  white;
+  background-color:  rgb(195, 195, 211);
   Color: rgb(94, 81, 210);
   font-weight: 700;
 
 }
 
+.navBar{
+  position:relative  ;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2rem;
+  display: block;
+  padding: 1px 55px ;
+  align-items: flex-start;
+  background-color: rgb(77, 128, 133);
+  color: rgb(59, 27, 202);
+  font-weight: 700;
+}
+
 .main{
-  position: relative;
+  position:relative  ;
   top: 0;
   left: 0;
   right: 0;
   height: 80rem;
-  display: flex;
+  display: block;
   padding: 50px 50px ;
   align-items: flex-start;
   background-color: rgb(220, 232, 233);
