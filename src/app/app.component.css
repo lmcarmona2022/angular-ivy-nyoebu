@@ -5,27 +5,27 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 4rem;
+  height: auto;
   display: block ;
   align-items: flex-start;
-  background-color:rgb(224, 224, 233);
+  background-color:white;
   Color: rgb(94, 81, 210);
   font-weight: 700;
 
 }
 
 .navBar{
-  position:relative  ;
+  position:relative;
   top: 0;
   left: 0;
   right: 0;
   height: 2rem;
   display: block;
-  padding: 1px 55px ;
+  padding: 0px 5px ;
   align-items: flex-start;
   background-color: rgb(238, 23, 23);
-  color:white;
-  font-weight: 700;
+  color:rgb(88, 24, 24);
+  font-weight: 100;
 }
 
 .main{
@@ -35,22 +35,17 @@
   right: 0;
   height: 10rem;
   display: block;
-  padding: 50px 50px ;
+  padding: 0px 5px ;
   align-items: flex-start;
-  background-color:rgb(224, 224, 233);
-  color: rgb(59, 27, 202);
+  background-color:white;
+  color: rgb(31, 19, 87);
   font-weight: 700;
 }
 
 .img-responsive {
+  
   display: block;
-  max-width: 100%;
+  width: auto;
   height: auto;
-
+  
 }
-.header, .main img {
-  margin: 0 1px;
-}
-
-
-
