@@ -5,10 +5,10 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 10rem;
+  height: 4rem;
   display: block ;
   align-items: flex-start;
-  background-color:  rgb(195, 195, 211);
+  background-color:rgb(224, 224, 233);
   Color: rgb(94, 81, 210);
   font-weight: 700;
 
@@ -23,8 +23,8 @@
   display: block;
   padding: 1px 55px ;
   align-items: flex-start;
-  background-color: rgb(77, 128, 133);
-  color: rgb(59, 27, 202);
+  background-color: rgb(238, 23, 23);
+  color:white;
   font-weight: 700;
 }
 
@@ -33,17 +33,21 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 80rem;
+  height: 10rem;
   display: block;
   padding: 50px 50px ;
   align-items: flex-start;
-  background-color: rgb(220, 232, 233);
+  background-color:rgb(224, 224, 233);
   color: rgb(59, 27, 202);
   font-weight: 700;
 }
 
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
 
-
+}
 .header, .main img {
   margin: 0 1px;
 }
